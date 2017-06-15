@@ -31,9 +31,9 @@
   },
   "dependencies": {
     "oktopost-plankton-is": "https://github.com/Oktopost/plankton-is.git#f45ca73",
-    "oktopost-plankton-obj": "https://github.com/Oktopost/plankton-is.git#f8dc626",
-    "oktopost-plankton-array": "https://github.com/Oktopost/plankton-is.git#42db650",
-    "oktopost-plankton-func": "https://github.com/Oktopost/plankton-is.git#cd8483f",
+    "oktopost-plankton-obj": "https://github.com/Oktopost/plankton-obj.git#f8dc626",
+    "oktopost-plankton-array": "https://github.com/Oktopost/plankton-array.git#42db650",
+    "oktopost-plankton-func": "https://github.com/Oktopost/plankton-func.git#cd8483f",
     "oktopost-namespace": "https://github.com/Oktopost/namespace.git#32d6f41"
   }
 }
