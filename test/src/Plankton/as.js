@@ -1,11 +1,10 @@
 'use strict';
 
 
-const is = require('../../index').is;
-const as = require('../../index').as;
-const obj = require('../../index').obj;
+const as	= require('../../index').as;
 const array = require('../../index').array;
-const func = require('../../index').func;
+const func	= require('../../index').func;
+
 const common = require('./common');
 const assert = require('chai').assert;
 

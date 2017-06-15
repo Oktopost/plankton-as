@@ -1,0 +1,9 @@
+{
+	"map":
+	{
+		"file":
+		{
+			"Plankton.as": "./src/Plankton/as"
+		}
+	}
+}

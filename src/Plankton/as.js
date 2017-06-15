@@ -1,4 +1,4 @@
-require('../namespace').namespace('Plankton', function (container) {
+namespace('Plankton', function (container) {
 	'use strict';
 
 
@@ -8,7 +8,8 @@ require('../namespace').namespace('Plankton', function (container) {
 
 
 	/**
-	 * @name Plankton.as
+	 * @class Plankton.as
+	 * @alias as
 	 */
 	var as = {};
 	
